@@ -1,0 +1,21 @@
+// Connection to sensor
+#define SENSOR_PIN 0
+
+//Integer for senseor values
+int sensorValue;
+
+void setup() {
+  // put your setup code here, to run once:
+
+  //Set up serial port
+  Serial.begin(9600);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  //Read Sensor value
+  sensorValue = analogRead(SENSOR_PIN);
+
+  //Print value to Serial Monitor
+  Serial.println(sensorValue)
+}
