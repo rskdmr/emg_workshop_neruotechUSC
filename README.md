@@ -9,6 +9,14 @@ Items Used:
 
 
 ### Set up:
+1. Connect the Arduino to your laptop using the USB-A to USB-B cable. If required, use a USB-C to USB-A adapter.
+2. Wire the EMG sensor to the Arduino GND and A0 pins. Use M-F jumper wires.
+3. Connect the EMG sensor to the power supply via the breadboard. Use M-F jumper wires.
+4. Connect the electrodes to the EMG sensor.
+5. Start up the Arduino IDE and connect to the Arduino board.
+6. Attach the electrodes to the muscle. One for ground and two to measure the potential difference.
+7. Put your code in the IDE and upload it to the Arduino.
+8. Open the serial monitor or serial plotter to visualize the sensor readings.
 
 
 ### Images:
