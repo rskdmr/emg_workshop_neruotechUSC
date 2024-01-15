@@ -19,6 +19,17 @@ Items Used:
 8. Open the serial monitor or serial plotter to visualize the sensor readings.
 
 
+### Takeaways: 
+1. Replicate the results multiple times.
+  - It took us hours to figure out why the setup worked only sometimes and why we couldn't replicate the same results during the presentation
+2. If you pay for cheap products, you'll get cheap results.
+  - As students, we spent as little as possible on materials to save on club funds. As a result, the EMG module didn't work as best as it could, with some of the capacitors getting fried when hooked up to the DC power supply
+
+### Further Experimentation/Ideas: 
+- Use EMG to create a muscle-activated prosthetic using servo motors and 3D printing
+- Muscle-controlled input for game input (e.g. Pong, Chrome No Internet Game, etc.)
+- Muscle controlled cars
+
 ### Images:
 **Electrode Placement**
 ![IMG_9848](https://github.com/rskdmr/emg_sketch_code/assets/120705369/198fa13d-a8c0-4d9d-b3fd-487859486df5)
