@@ -20,6 +20,12 @@ void loop() {
   //Read Sensor value
   sensorValue = analogRead(SENSOR_PIN);
 
+  // Add "fake" plots to stabilize Y axis
+  Serial.print(0); // Freezes lower limit
+  Serial.print(" ");
+  Serial.print(1000); // Can be changed based on values taken from the Serial Monitor
+  Serial.print(" ");
+
   //Print value to Serial Monitor
   Serial.println(sensorValue)
 }
