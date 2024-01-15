@@ -12,4 +12,5 @@ Items Used:
 
 
 ### Images:
-!(
+![IMG_9848](https://github.com/rskdmr/emg_sketch_code/assets/120705369/198fa13d-a8c0-4d9d-b3fd-487859486df5)
+
