@@ -13,4 +13,11 @@ Items Used:
 
 ### Images:
 ![IMG_9848](https://github.com/rskdmr/emg_sketch_code/assets/120705369/198fa13d-a8c0-4d9d-b3fd-487859486df5)
+![IMG_9847](https://github.com/rskdmr/emg_sketch_code/assets/120705369/c88e1206-2967-46d9-8327-b2211953aec1)
+![IMG_9846](https://github.com/rskdmr/emg_sketch_code/assets/120705369/5863f65f-265a-430f-86ba-5e0d59e63f94)
+![IMG_9845](https://github.com/rskdmr/emg_sketch_code/assets/120705369/d3ee5a4c-de7e-491b-aaee-0713cef5fd67)
+![IMG_9844](https://github.com/rskdmr/emg_sketch_code/assets/120705369/a44a8f0a-7942-4be7-97e6-8b612c91e708)
+
+
+
 
