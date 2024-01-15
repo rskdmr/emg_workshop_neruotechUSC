@@ -1,3 +1,7 @@
+// This code is designed to read the electrical information from the EMG sensor module into the Arduino. 
+// Visualization can be done using the serial plotter rather than the monitor
+
+
 // Connection to sensor
 #define SENSOR_PIN 0
 
