@@ -42,6 +42,11 @@ Items Used:
 **Whole Scale Set Up**
 ![IMG_9844](https://github.com/rskdmr/emg_sketch_code/assets/120705369/a44a8f0a-7942-4be7-97e6-8b612c91e708)
 
+**No Muscle Activity**
+<img width="799" alt="Screenshot 2023-11-08 at 3 50 50 PM" src="https://github.com/rskdmr/emg_workshop_neruotechUSC/assets/120705369/3812ece9-17b4-4d79-8137-92cb8144b944">
+
+**Muscle Spikes**
+<img width="796" alt="Screenshot 2023-11-07 at 6 54 40 PM" src="https://github.com/rskdmr/emg_workshop_neruotechUSC/assets/120705369/adbfe563-8f79-465e-a0dc-4fa10e9a1387">
 
 
 
